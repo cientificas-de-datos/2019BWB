@@ -9,5 +9,18 @@
 #### *Información de interés*
 - [Descuento en Data Storytelling](https://www.udemy.com/data-storytelling-now/?couponCode=BOOTCAMP_2019)
 
+### ¿Cómo utilizar este repositorio?
 
-#### *Contactos*
+- Puedes instalar git en tu computador y clonar el repositorio, creando una copia local en tu computador. Los pasos a seguir son:
+   1. Instalar Git: https://git-scm.com/downloads
+   2. Abrir la consola de comandos:
+     - En Windows es **cmd** - *[Guía para Windows](https://es.wikihow.com/abrir-la-l%C3%ADnea-de-comandos-en-Windows)*
+     - En Linux es **Terminal** - *[Guía para Linux](https://xtephan.wordpress.com/2008/11/17/abrir-un-terminal-en-ubuntu-linux/)*
+     - En Mac es **Terminal** - *[Guía para Mac](https://es.ccm.net/faq/6484-mac-os-como-abrir-el-terminal)*
+   3. Copiar y pegar la siguiente línea dentro de terminal:
+   
+          git clone https://github.com/cientificas-de-datos/2019BWB.git
+     
+   4. Presionar la tecla Enter
+   
+   Después de estos pasos, tendrás una carpeta en tu computador con el nombre de este repositorio y con todos los archivos listos para ejecutar.
