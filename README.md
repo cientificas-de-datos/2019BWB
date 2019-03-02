@@ -3,8 +3,7 @@
 
 ¿Qué encontrarás en este repositorio?
  - Presentaciones realizadas durante el Bootcamp Women in Data, realizado en Bogotá (Febrero a Marzo, 2019)
- - Jupyter Notebooks
- - Datos (ejemplos)
+ - Jupyter Notebooks y Datos (ejemplos)
 
 #### *Información de interés*
 - [Descuento en Data Storytelling](https://www.udemy.com/data-storytelling-now/?couponCode=BOOTCAMP_2019)
