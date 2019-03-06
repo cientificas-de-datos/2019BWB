@@ -7,6 +7,9 @@
 
 #### *Información de interés*
 - [Descuento en Data Storytelling](https://www.udemy.com/data-storytelling-now/?couponCode=BOOTCAMP_2019)
+- Celebración del día de la Mujer:
+![whatsapp image 2019-03-06 at 18 32 25](https://user-images.githubusercontent.com/15584917/53921687-508c4c80-403f-11e9-9293-bb57d257a8d1.jpeg)
+
 
 ### ¿Cómo utilizar este repositorio?
 
