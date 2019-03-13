@@ -5,17 +5,14 @@
  - Presentaciones realizadas durante el Bootcamp Women in Data, realizado en Bogotá (Febrero a Marzo, 2019)
  - Jupyter Notebooks y Datos (ejemplos)
 
-#### *Información de interés*
-- [Descuento en Data Storytelling](https://www.udemy.com/data-storytelling-now/?couponCode=BOOTCAMP_2019)
-- [Instrucciones para taller de Análisis de Sentimientos](http://bit.ly/tallerwomenbog)
-- Celebración del día de la Mujer:
-![whatsapp image 2019-03-06 at 18 32 25](https://user-images.githubusercontent.com/15584917/53921687-508c4c80-403f-11e9-9293-bb57d257a8d1.jpeg)
+#### ***:fast_forward: Ver: [Instrucciones para taller de Análisis de Sentimientos](http://bit.ly/tallerwomenbog)***
 
 
 ### ¿Cómo utilizar este repositorio?
 
 - Puedes instalar git en tu computador y clonar el repositorio, creando una copia local en tu computador. Los pasos a seguir son:
    1. Instalar Git: https://git-scm.com/downloads
+         *Puedes apoyarte también en el tutorial [Vídeo: Copiar un repositorio con Git](https://www.youtube.com/watch?v=DUT2DuptycU)*
    2. Abrir la consola de comandos:
      - En Windows es **cmd** - *[Guía para Windows](https://es.wikihow.com/abrir-la-l%C3%ADnea-de-comandos-en-Windows)*
      - En Linux es **Terminal** - *[Guía para Linux](https://xtephan.wordpress.com/2008/11/17/abrir-un-terminal-en-ubuntu-linux/)*
@@ -27,3 +24,16 @@
    4. Presionar la tecla Enter
    
    Después de estos pasos, tendrás una carpeta en tu computador con el nombre de este repositorio y con todos los archivos listos para ejecutar.
+      
+* Para comprender el porqué usar Git, te invitamos a conocer este contenido avanzado: *[Tutorial de gestión de versiones de código en Git](https://learngitbranching.js.org/)*
+
+
+#### *Información de interés*
+- [Descuento en Data Storytelling](https://www.udemy.com/data-storytelling-now/?couponCode=BOOTCAMP_2019)
+- Celebración del día de la Mujer:
+![whatsapp image 2019-03-06 at 18 32 25](https://user-images.githubusercontent.com/15584917/53921687-508c4c80-403f-11e9-9293-bb57d257a8d1.jpeg)
+
+#### *Contacto con mentores*
+- [Angela Devia](mailto:ing.angela.devia@gmail.com)
+- [Laura Mojica](mailto:lc.mojica639@uniandes.edu.co)
+- [Marylin Alarcón](mailto:marylin-alarcon@live.com)
