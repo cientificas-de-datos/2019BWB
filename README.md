@@ -37,3 +37,4 @@
 - [Angela Devia](mailto:ing.angela.devia@gmail.com)
 - [Laura Mojica](mailto:lc.mojica639@uniandes.edu.co)
 - [Marylin Alarcón](mailto:marylin-alarcon@live.com)
+- [Victor Ramirez](mailto:ramirez.vmanuel@gmail.com)
