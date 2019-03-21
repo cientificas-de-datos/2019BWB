@@ -1,12 +1,20 @@
 # Customer Analytics
 ## 2019 - Bootcamp Women In Data Bogota
+   
+# :loudspeaker:
 
-¿Qué encontrarás en este repositorio?
+|:bangbang: Las sesiones del viernes 22 y sábado 23 de marzo *(Hackathon)* se realizarán en las instalaciones de RTCV :satellite:
+|:-----------------------------------------------------------------:|
+|[Dirección: Av. El Dorado, Cra. 45 #26-33](https://goo.gl/maps/uit87JPSrV12)|
+|:warning: ***Deben llevar su cédula para la verificación que se realiza al ingreso del recinto***|
+
+
+# :soon::mortar_board: 
+
+##### ¿Qué encontrarás en este repositorio?
  - Presentaciones realizadas durante el Bootcamp Women in Data, realizado en Bogotá (Febrero a Marzo, 2019)
  - Jupyter Notebooks y Datos (ejemplos)
-
-#### ***:fast_forward: Ver: [Instrucciones para taller de Análisis de Sentimientos](http://bit.ly/tallerwomenbog)***
-
+   - [Instrucciones para taller de Análisis de Sentimientos](http://bit.ly/tallerwomenbog)
 
 ### ¿Cómo utilizar este repositorio?
 
