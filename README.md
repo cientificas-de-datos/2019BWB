@@ -5,7 +5,7 @@
 
 |:bangbang: Las sesiones del viernes 22 y sábado 23 de marzo *(Hackathon)* se realizarán en las instalaciones de RTCV :satellite:
 |:-----------------------------------------------------------------:|
-|[Dirección: Av. El Dorado, Cra. 45 #26-33](https://goo.gl/maps/uit87JPSrV12)|
+|[Dirección: Av. El Dorado, Cra. 45 #26-33 - Edificio ViveLab](https://goo.gl/maps/QYvjHtkWu9z)|
 |:warning: ***Deben llevar su cédula para la verificación que se realiza al ingreso del recinto***|
 
 
