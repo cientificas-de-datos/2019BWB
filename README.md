@@ -43,6 +43,6 @@
 
 #### *Contacto con mentores*
 - [Angela Devia](mailto:ing.angela.devia@gmail.com)
-- [Laura Mojica](mailto:lc.mojica639@uniandes.edu.co)
+- [Laura Mojica](mailto:lc.mojica639@outlook.com)
 - [Marylin Alarcón](mailto:marylin-alarcon@live.com)
 - [Victor Ramirez](mailto:ramirez.vmanuel@gmail.com) y en [Twitter](https://twitter.com/bikthor)
