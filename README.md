@@ -1,17 +1,22 @@
 # Customer Analytics
 ## 2019 - Bootcamp Women In Data Bogota
    
-# :loudspeaker:
+# :mortar_board:
+## Felicitaciones a nuestras Científicas de Datos
 
-|:bangbang: Las sesiones del viernes 22 y sábado 23 de marzo *(Hackathon)* se realizarán en las instalaciones de RTCV :satellite:
-|:-----------------------------------------------------------------:|
-|[Dirección: Av. El Dorado, Cra. 45 #26-33 - Edificio ViveLab](https://goo.gl/maps/QYvjHtkWu9z)|
-|:warning: ***Deben llevar su cédula para la verificación que se realiza al ingreso del recinto***|
+Las invitamos a diligenciar la siguiente información:
+
+ 0. [Registro de proyectos - Hackathon](https://docs.google.com/forms/d/e/1FAIpQLSeEDVVR9UKHXrkWnW51qtd0SyPsUk0mNIFQTwqr8YSdebtN0A/viewform): Con el fin de asociarlo como producto del portafolio de cada participante del Bootcamp y quedará disponible para descarga a través de este repositorio
+ 1. [Registro de Hoja de Vida](https://docs.google.com/forms/d/e/1FAIpQLSd7U-gFE0pLaINSmXJcFHBLqxKbq9qCIht0hmjtD5fWVRORcg/viewform): Utilizaremos el correo registrado acá para enviarles información de eventos y convocatorias (incluyendo aquellos eventos dialogados con la Secretaría TIC de la Alcaldía de Bogotá)
+ 2. [Enlace a publicación de Innovus en Instagram](https://www.instagram.com/p/BvX6U9MHkdV/?utm_source=ig_web_copy_link)
+ 3. [Propuestas de colaboración](https://docs.google.com/forms/d/e/1FAIpQLSd2AlLjaMqIfLrG5SLn1dyI6bTGlhDDAeCJQKsYyP2gzE7KGg/viewform): Si tienes ideas de trabajo conjunto, convenios u otras capacitaciones
+ 4. [Sube tus fotos del Bootcamp!](https://1drv.ms/f/s!AjaZ3Ah2Ux55g4U8c8flUXtbbOTZRw): Te invitamos a subir las fotos que tomaste durante el Bootcamp :selfie:
+ 5. [Comienza a ser voluntaria en Científicas de Datos](https://goo.gl/D7od8t)
+ 6. [Evaluación del Bootcamp](https://docs.google.com/forms/d/e/1FAIpQLScultwVpR1xMS8kVsn98bwdZMn2Z7I5Ctts3wZ9wRGPc939tg/viewform): Ayúdanos a mejorar 
 
 
-# :soon::mortar_board: 
 
-##### ¿Qué encontrarás en este repositorio?
+### ¿Qué encontrarás en este repositorio?
  - Presentaciones realizadas durante el Bootcamp Women in Data, realizado en Bogotá (Febrero a Marzo, 2019)
  - Jupyter Notebooks y Datos (ejemplos)
    - [Instrucciones para taller de Análisis de Sentimientos](http://bit.ly/tallerwomenbog)
